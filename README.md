@@ -20,6 +20,7 @@ Currently applied world settings
 
 
 Server Side Mods
+
     BepinEx
     Smooth Server
     ValheimOne
