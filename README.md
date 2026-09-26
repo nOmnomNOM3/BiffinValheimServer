@@ -3,7 +3,7 @@ Save files and settings related to the valehim server.
 
 Default ports
 biffinboys.ddns.net:2456
-
+world map https://map.biffinboys.us/
  ____  _  _____ _____ _  _            _     ____  _     _     _____ _  _     
 /  __\/ \/    //    // \/ \  /|      / \ |\/  _ \/ \   / \ /|/  __// \/ \__/|
 | | //| ||  __\|  __\| || |\ ||_____ | | //| / \|| |   | |_|||  \  | || |\/||
