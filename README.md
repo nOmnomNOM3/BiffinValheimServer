@@ -33,10 +33,13 @@ Save files and settings related to the Valheim server.
 
 - BepInEx
 - SmoothServer
-- Highseat
 - Jotunn
 - KeepAchievements
 - ZenUI
+
+## Admin Client Mods
+
+- Highseat
 - Server Devcommands
 
 ## Mod links
