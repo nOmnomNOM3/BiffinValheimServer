@@ -1,0 +1,10 @@
+{
+  "name": "SmoothServer",
+  "author": "Nosferatu",
+  "version_number": "0.6.0",
+  "website_url": "https://github.com/MJensen01/SmoothServer",
+  "description": "Networking and performance tuning for Valheim dedicated servers: send cadence, adaptive per-peer budgets, async save, telemetry. Optional client half adds zstd compression and a shared map.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2350"
+  ]
+}
