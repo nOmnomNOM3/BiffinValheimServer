@@ -1,0 +1,6 @@
+- name: Everyone
+  commands:
+    permissions: no
+- id: 76561198012421409
+  name: NiGgEr
+  character: 18887199
